@@ -28,3 +28,6 @@ if we want to disable auto data fetching on component render then we use enabled
 
 
 This is all inclulded under UseQuery oobject hook 
+
+
+also check npm i json-server which allow backend to work and test in browser with api endpoints 
